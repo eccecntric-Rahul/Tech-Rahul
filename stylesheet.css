@@ -151,7 +151,12 @@ header
   margin: 22px;
   font-family: 'Iceberg', cursive;
   }
-#titleOfPage a:visited {
+
+#titleOfPage a:link{
+  color: white;
+}
+
+#titleOfPage a:visited{
   color: white;
 }
 
